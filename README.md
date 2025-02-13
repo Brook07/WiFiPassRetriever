@@ -30,3 +30,7 @@ A lightweight command-line tool for retrieving saved Wi-Fi passwords from Window
    ```sh
    g++ wifi_pass_retriever.cpp -o WiFiPassRetriever.exe
    ```
+3. Run the executable with administrative privileges:
+   ```sh
+   WiFiPassRetriever.exe
+   ```
